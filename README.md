@@ -1,4 +1,3 @@
-http://kutayba001.com/
 <!DOCTYPE html>
 <html lang="en">
     <body>
